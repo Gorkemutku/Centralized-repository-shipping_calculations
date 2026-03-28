@@ -1,0 +1,9 @@
+PS C:\Users\LENOVO\Desktop\UniCycle> git checkout main
+Already on 'main'
+Your branch is up to date with 'origin/main'.
+
+PS C:\Users\LENOVO\Desktop\UniCycle> git merge bug-fix-typo
+Updating a1b2c3d..e5f6g7h
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
